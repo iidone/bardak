@@ -1,0 +1,2 @@
+# bardak
+beginner python developer
